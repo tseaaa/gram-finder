@@ -1,4 +1,4 @@
-# build-a-bot
+# gram-finder
 
 ## Project setup
 ```
